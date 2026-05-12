@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/status-em%20desenvolvimento-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/version-1.0-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/status-prot%C3%B3tipo-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/disciplina-Desenvolvimento%20Web-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/empresa-fict%C3%ADcia-red?style=for-the-badge"/>
 
-### Plataforma inteligente para gerenciamento de eventos acadêmicos
+### Empresa especializada na organização de eventos acadêmicos
 
-Organize • Divulgue • Gerencie • Conecte
+Conectando conhecimento, inovação e experiências.
 
 <br>
 
@@ -16,9 +16,13 @@ Organize • Divulgue • Gerencie • Conecte
 
 ---
 
-## 📌 Sobre o Projeto
+# 📌 Sobre a Empresa
 
-O **360 Eventos** é uma plataforma ficticia criada para a matéria de desenvolvimento web, desenvolvida para facilitar a organização e gerenciamento de eventos acadêmicos, como:
+A **360 Eventos** é uma empresa fictícia criada com fins acadêmicos para a disciplina de **Desenvolvimento Web**.
+
+A proposta da empresa é atuar na criação, organização e gerenciamento de eventos, com foco principal no setor acadêmico, oferecendo soluções modernas e eficientes para instituições de ensino, palestrantes, estudantes e organizadores.
+
+A empresa seria especializada em:
 
 - 📚 Congressos
 - 🎤 Palestras
@@ -27,36 +31,23 @@ O **360 Eventos** é uma plataforma ficticia criada para a matéria de desenvolv
 - 📖 Simpósios
 - 🧑‍🏫 Cursos e minicursos
 
-A proposta do sistema é centralizar todo o processo em um único ambiente digital, oferecendo uma experiência prática tanto para organizadores quanto para participantes.
+O objetivo do protótipo é demonstrar conceitos de desenvolvimento web aplicados a uma plataforma de gerenciamento de eventos acadêmicos.
 
 ---
 
-## ✨ Funcionalidades
+# 🎯 Objetivo
 
-### 👨‍💼 Administração
-- Cadastro de eventos
-- Controle de participantes
-- Emissão de certificados
-- Gerenciamento de inscrições
-- Painel administrativo
+A **360 Eventos** foi idealizada para representar uma solução tecnológica moderna voltada à gestão de eventos acadêmicos, buscando:
 
-### 👥 Usuários
-- Inscrição em eventos
-- Confirmação de presença
-- Download de certificados
-- Visualização de cronogramas
-- Perfil personalizado
-
-### 📊 Sistema
-- Interface responsiva
-- Banco de dados integrado
-- Sistema de autenticação
-- Notificações automáticas
-- Dashboard analítico
+- ⚡ Automatizar processos organizacionais
+- 📈 Melhorar a experiência dos participantes
+- 🤝 Facilitar a comunicação entre organizadores e público
+- 🌎 Tornar eventos mais acessíveis digitalmente
+- 🏛️ Incentivar inovação no ambiente acadêmico
 
 ---
 
-# 🖼️ Preview
+# 🖼️ Protótipo
 
 <div align="center">
 
@@ -65,7 +56,7 @@ A proposta do sistema é centralizar todo o processo em um único ambiente digit
 ║                                          ║
 ║           🎓 360 EVENTOS                 ║
 ║                                          ║
-║     Plataforma de Eventos Acadêmicos     ║
+║      Gestão Inteligente de Eventos       ║
 ║                                          ║
 ║   [ Criar Evento ]   [ Participar ]      ║
 ║                                          ║
